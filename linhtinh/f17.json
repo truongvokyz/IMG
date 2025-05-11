@@ -22,19 +22,23 @@
   "Navbar": {
     "Navbar_1": {
       "title": "Trang Chủ",
-      "url": "https://f17city.net"
+      "url": "https://f17city.net",
+      "icon": "https://img.f17.gg/launcher/SVG/iconnav1.svg"
     },
     "Navbar_2": {
       "title": "Cộng Đồng",
-      "url": "https://f17city.net"
+      "url": "https://f17city.net",
+      "icon": "https://img.f17.gg/launcher/SVG/iconnav2.svg"
     },
     "Navbar_3": {
       "title": "Discord",
-      "url": "https://f17city.net"
+      "url": "https://f17city.net",
+      "icon": "https://img.f17.gg/launcher/SVG/iconnav3.svg"
     },
     "Navbar_4": {
       "title": "Ủng Hộ",
-      "url": "https://f17city.net"
+      "url": "https://f17city.net",
+      "icon": "https://img.f17.gg/launcher/SVG/iconnav4.svg"
     }
   }
 }
