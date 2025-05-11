@@ -1,9 +1,27 @@
 {
-  "Games": {
-    "Game1": "Server F17City #1",
-    "Game2": "Server F17City #2",
-    "Game3": "Server TEST"
-  },
+  "Games": [
+    {
+      "id": 1,
+      "name": "Dev Server",
+      "ip": "game.vngta.com:30120",
+      "image": "https://img.f17.gg/launcher/bg_server1.jpg",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "name": "VNGTA Roleplay",
+      "ip": "game.vngta.com:30120",
+      "image": "https://img.f17.gg/launcher/bg_server2.jpg",
+      "enabled": false
+    },
+    {
+      "id": 3,
+      "name": "Server Cho Thuê",
+      "ip": "game.vngta.com:30120",
+      "image": "https://img.f17.gg/launcher/bg_svtest.jpg",
+      "enabled": false
+    }
+  ],
   "Youtube": "https://www.youtube.com/watch?v=TDBeCQAF6bk",
   "Texts": {
     "Text1": {
