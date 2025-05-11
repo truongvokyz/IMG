@@ -1,0 +1,40 @@
+{
+  "Games": {
+    "Game1": "Server F17City #1",
+    "Game2": "Server F17City #2",
+    "Game3": "Server TEST"
+  },
+  "Youtube": "https://www.youtube.com/watch?v=TDBeCQAF6bk",
+  "Texts": {
+    "Text1": {
+      "title": "Hướng dẫn tân thủ",
+      "url": "https://f17city.net"
+    },
+    "Text2": {
+      "title": "Lịch Event",
+      "url": "https://f17city.net"
+    },
+    "Text3": {
+      "title": "Hướng dẫn phím tắt",
+      "url": "https://f17city.net"
+    }
+  },
+  "Navbar": {
+    "Navbar1": {
+      "title": "Trang Chủ",
+      "url": "https://f17city.net"
+    },
+    "Navbar2": {
+      "title": "Cộng Đồng",
+      "url": "https://f17city.net"
+    },
+    "Navbar3": {
+      "title": "Discord",
+      "url": "https://f17city.net"
+    },
+    "Navbar4": {
+      "title": "Ủng Hộ",
+      "url": "https://f17city.net"
+    }
+  }
+}
