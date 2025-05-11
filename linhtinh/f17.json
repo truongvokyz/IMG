@@ -2,21 +2,21 @@
   "Games": [
     {
       "id": 1,
-      "name": "Dev Server",
+      "name": "Server F17City #1",
       "ip": "game.vngta.com:30120",
       "image": "https://img.f17.gg/launcher/bg_server1.jpg",
       "enabled": true
     },
     {
       "id": 2,
-      "name": "VNGTA Roleplay",
+      "name": "Server F17City #2",
       "ip": "game.vngta.com:30120",
       "image": "https://img.f17.gg/launcher/bg_server2.jpg",
       "enabled": false
     },
     {
       "id": 3,
-      "name": "Server Cho Thuê",
+      "name": "Server Test",
       "ip": "game.vngta.com:30120",
       "image": "https://img.f17.gg/launcher/bg_svtest.jpg",
       "enabled": false
