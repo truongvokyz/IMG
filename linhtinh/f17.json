@@ -20,19 +20,19 @@
     }
   },
   "Navbar": {
-    "Navbar1": {
+    "Navbar_1": {
       "title": "Trang Chủ",
       "url": "https://f17city.net"
     },
-    "Navbar2": {
+    "Navbar_2": {
       "title": "Cộng Đồng",
       "url": "https://f17city.net"
     },
-    "Navbar3": {
+    "Navbar_3": {
       "title": "Discord",
       "url": "https://f17city.net"
     },
-    "Navbar4": {
+    "Navbar_4": {
       "title": "Ủng Hộ",
       "url": "https://f17city.net"
     }
