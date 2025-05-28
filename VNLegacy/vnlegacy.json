@@ -1,0 +1,52 @@
+{
+  "serverList": [
+    {
+      "id": 1,
+      "name": "Server F17City #1",
+      "ip": "game.vngta.com:30120",
+      "image": "https://img.f17.gg/launcher/bg_server1.jpg",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "name": "Server F17City #2",
+      "ip": "game2.vngta.com:30120",
+      "image": "https://img.f17.gg/launcher/bg_server2.jpg",
+      "enabled": false
+    },
+    {
+      "id": 3,
+      "name": "Server Test",
+      "ip": "game3.vngta.com:30120",
+      "image": "https://img.f17.gg/launcher/bg_svtest.jpg",
+      "enabled": false
+    }
+  ],
+  "Youtube": "https://www.youtube.com/watch?v=TDBeCQAF6bk",
+  "Texts": {
+    "Text1": {
+      "title": "Hướng dẫn tân thủ",
+      "url": "https://f17city.net"
+    },
+    "Text2": {
+      "title": "Lịch Event",
+      "url": "https://f17city.net"
+    },
+    "Text3": {
+      "title": "Hướng dẫn phím tắt",
+      "url": "https://f17city.net"
+    }
+  },
+  "Navbar": {
+    "Navbar_1": {
+      "title": "Trang Chủ",
+      "url": "https://f17city.net",
+      "icon": "https://img.f17.gg/launcher/SVG/iconnav1.svg"
+    },
+    "Navbar_3": {
+      "title": "Discord",
+      "url": "https://f17city.net",
+      "icon": "https://img.f17.gg/launcher/SVG/iconnav3.svg"
+    }
+  }
+}
